@@ -19,7 +19,12 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 - zed (other text editor)
 - firefox (browser)
 - rofi
-  
+
+### Firefox
+- Install NightTab https://github.com/zombieFox/nightTab
+- Install SimpleFox https://github.com/migueravila/SimpleFox
+- Apply this theme: https://addons.mozilla.org/en-US/firefox/addon/gruvbox-material-dark-official/
+- Recommended: install [Stylus](https://addons.mozilla.org/nl/firefox/addon/styl-us/) and look for gruvbox in the extention
 ### chezmoi
 ```bash
 # Install chezmoi
