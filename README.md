@@ -20,12 +20,22 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 - zed (other text editor)
 - firefox (browser)
 
+### Background
+
+Randomly selected background on startup using feh
 
 ### Firefox
 - Install NightTab https://github.com/zombieFox/nightTab
 - Install SimpleFox https://github.com/migueravila/SimpleFox
 - Apply this theme: https://addons.mozilla.org/en-US/firefox/addon/gruvbox-material-dark-official/
 - Recommended: install [Stylus](https://addons.mozilla.org/nl/firefox/addon/styl-us/) and look for gruvbox in the extention for some websites
+
+### Spotify_player
+
+```bash
+# This is the command to install Spotify_player on arch using cargo with all features and the pulse-audio backend
+cargo install spotify_player --no-default-features --features pulseaudio-backend,media-control,image,notify,daemon,fzf,streaming
+```
   
 ### chezmoi
 !!! Use with caution NOT TESTED !!!
