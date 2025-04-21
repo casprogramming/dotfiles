@@ -19,7 +19,7 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 - zathura (pdf reader)
 - zed (other text editor)
 - firefox (browser)
-- rofi
+
 
 ### Firefox
 - Install NightTab https://github.com/zombieFox/nightTab
@@ -41,5 +41,4 @@ chezmoi init --apply https://github.com/casprogramming/dotfiles.git
 - gruvbox: https://github.com/morhetz/gruvbox
 - firefox: https://www.reddit.com/r/FirefoxCSS/comments/11cfmfs/firefox_minimal_gruvbox_theme_using_nighttab_and/
 - backgrounds: https://github.com/AngelJumbo/gruvbox-wallpapers
-- rofi: edited included gruvbox theme
 - kitty: https://github.com/dexpota/kitty-themes
