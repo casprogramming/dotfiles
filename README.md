@@ -8,6 +8,16 @@
 
 This project is a minimalist, productivity-oriented rice i3 on Arch, themed entirely around the Gruvbox color scheme (Gruvbox is life)
 
+### Dependencies 
+- feh
+- dunst
+- kitty
+- maim
+- xclip
+- picom
+- i3lock, blocks and status
+- ...
+
 ### Programs configured
 - dunst (notification deamon)
 - i3 (window manager)
@@ -36,7 +46,22 @@ Randomly selected background on startup using feh
 # This is the command to install Spotify_player on arch using cargo with all features and the pulse-audio backend
 cargo install spotify_player --no-default-features --features pulseaudio-backend,media-control,image,notify,daemon,fzf,streaming
 ```
-  
+
+### SDDM Theme
+
+https://gitlab.com/dwt1/multicolor-sddm-theme
+
+### All programs
+
+Most programs I personally use, no need to install all of them
+pacman
+```bash
+sudo pacman -S feh dunst kitty maim xclip picom 7zip bluetui bluez bluez-libs bluez-utils cava cmatrix curl firefox inkscape i3-wm i3blocks i3lock i3status neofetch neovim redshift mpv zathura zed
+```
+AUR
+```bash
+yay -S vesktop-bin ttf-ms-fonts otf-raleway
+```
 ### chezmoi
 !!! Use with caution NOT TESTED !!!
 ```bash
