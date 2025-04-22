@@ -8,6 +8,17 @@
 
 This project is a minimalist, productivity-oriented rice i3 on Arch, themed entirely around the Gruvbox color scheme (Gruvbox is life)
 
+### Screenshots
+<p float="left">
+  <img src="Pictures/screenshot%201" width="300"/>
+  <img src="Pictures/screenshot%202" width="300"/>
+  <img src="Pictures/screenshot%203" width="300"/>
+  <img src="Pictures/screenshot%204" width="300"/>
+  <img src="Pictures/screenshot%205" width="300"/>
+  <img src="Pictures/screenshot%206" width="300"/>
+  <img src="Pictures/screenshot%207" width="300"/>
+</p>
+
 ### Dependencies 
 - feh
 - dunst
