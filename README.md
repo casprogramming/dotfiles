@@ -10,8 +10,9 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 
 ### Screenshots
 <p float="left">
-  <img src="Pictures/screenshot%201" width="300"/>
+  <img src="Pictures/screenshot%208.png" width="300"/>  
   <img src="Pictures/screenshot%202" width="300"/>
+  <img src="Pictures/screenshot%201" width="300"/>
   <img src="Pictures/screenshot%203" width="300"/>
   <img src="Pictures/screenshot%204" width="300"/>
   <img src="Pictures/screenshot%205" width="300"/>
