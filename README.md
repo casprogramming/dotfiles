@@ -51,6 +51,7 @@ Randomly selected background on startup using feh
 - Install SimpleFox https://github.com/migueravila/SimpleFox
 - Apply this theme: https://addons.mozilla.org/en-US/firefox/addon/gruvbox-material-dark-official/
 - Recommended: install [Stylus](https://addons.mozilla.org/nl/firefox/addon/styl-us/) and look for gruvbox in the extention for some websites
+- aplly the included json file (nightTab backup - 2025.04.22 - 10 59 12.json) in nighttab
 
 ### Spotify_player
 
