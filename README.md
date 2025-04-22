@@ -77,3 +77,5 @@ chezmoi init --apply https://github.com/casprogramming/dotfiles.git
 - firefox: https://www.reddit.com/r/FirefoxCSS/comments/11cfmfs/firefox_minimal_gruvbox_theme_using_nighttab_and/
 - backgrounds: https://github.com/AngelJumbo/gruvbox-wallpapers
 - kitty: https://github.com/dexpota/kitty-themes
+- screenshots: https://gist.github.com/dianjuar/ee774561a8bc02b077989bc17424a19f
+- 
