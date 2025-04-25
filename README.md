@@ -28,6 +28,7 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 - xclip
 - picom
 - i3lock, blocks and status
+- ddcutil (for changing brightness of external monitor)
 - ...
 
 ### Programs configured
@@ -69,7 +70,7 @@ https://gitlab.com/dwt1/multicolor-sddm-theme
 Most programs I personally use, no need to install all of them
 pacman
 ```bash
-sudo pacman -S feh dunst kitty maim xclip picom 7zip bluetui bluez bluez-libs bluez-utils cava cmatrix curl firefox inkscape i3-wm i3blocks i3lock i3status neofetch neovim redshift mpv zathura zed
+sudo pacman -S feh dunst kitty maim xclip picom 7zip bluetui bluez bluez-libs bluez-utils cava cmatrix curl firefox inkscape i3-wm i3blocks i3lock i3status neofetch neovim redshift mpv zathura zed ddcutil
 ```
 AUR
 ```bash
