@@ -47,6 +47,12 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 
 bindsym XF86MonBrightnessUp exec light -A 5
 bindsym XF86MonBrightnessDown exec light -U 5
+
+#ddcutil for external monitors
+bindsym $mod+Shift+"KP_Subtract" exec ddcutil --bus=3 setvcp 10 - 10
+bindsym $mod+Shift+"KP_Add" exec ddcutil --bus=3 setvcp 10 + 10
+
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
