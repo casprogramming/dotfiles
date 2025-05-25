@@ -224,7 +224,7 @@ exec --no-startup-id feh --randomize --bg-fill /home/casper/gruvbox-wallpapers/w
 client.focused #989719 #272727 #ffffff #484e50   #989719
 client.unfocused#333333 #222222 #888888 #292d2e   #5f676a
 exec --no-startup-id dunst
-bindsym $mod+Shift+BackSpace exec i3lock -c 000000 && systemctl suspend
+bindsym $mod+Shift+BackSpace exec "i3lock -B 5 -e --indicator -k --inside-color=282828 --ring-color=928374 --keyhl-color=d79921 --{layout,time,date,greeter}-color=ebdbb2 --bshl-color=cc241d"
 
 # Screenshots
 bindsym Print exec --no-startup-id maim "/home/$USER/Pictures/$(date)"
