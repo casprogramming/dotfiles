@@ -29,6 +29,7 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 - picom
 - i3lock, blocks and status
 - ddcutil (for changing brightness of external monitor)
+- i3lock-color
 - ...
 
 ### Programs configured
@@ -42,6 +43,7 @@ This project is a minimalist, productivity-oriented rice i3 on Arch, themed enti
 - zathura (pdf reader)
 - zed (other text editor)
 - firefox (browser)
+- i3lock-color
 
 ### Background
 
@@ -74,7 +76,7 @@ sudo pacman -S feh dunst kitty maim xclip picom 7zip bluetui bluez bluez-libs bl
 ```
 AUR
 ```bash
-yay -S vesktop-bin ttf-ms-fonts otf-raleway
+yay -S vesktop-bin ttf-ms-fonts otf-raleway i3lock-color
 ```
 ### chezmoi
 !!! Use with caution NOT TESTED !!!
